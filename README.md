@@ -7,7 +7,7 @@ This is the Source code of Text Recognition application with Flutter.
 **Packages :**
 
 * image_picker 0.8.1+3 : https://pub.dev/packages/image_picker
-* google_ml_kit: ^0.11.0 : https://pub.dev/packages/google_ml_kit
-* clipboard [Optional]: ^0.1.3 : https://pub.dev/packages/clipboard
+* google_ml_kit ^0.11.0 : https://pub.dev/packages/google_ml_kit
+* clipboard ^0.1.3 [Optional]: https://pub.dev/packages/clipboard
 
 
